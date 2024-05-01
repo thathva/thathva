@@ -4,7 +4,7 @@ Hey there! I'm thrilled to have you visit my GitHub profile. Here's a glimpse in
 
 ## About Me
 
-I'm Thathva, a Master's student, graduating in May 2024 with a knack for building impactful solutions. From diving into complex codebases to crafting elegant user experiences, I thrive on challenges that push me to innovate and grow. I have over 2 years of professional working experience.
+I'm Thathva, I hold a Master's degree and a knack for building impactful solutions. From diving into complex codebases to crafting elegant user experiences, I thrive on challenges that push me to innovate and grow. I have over 2 years of professional working experience.
 
 💖 Passionate about everything Software Engineering, Full Stack Development and Systems.
 
